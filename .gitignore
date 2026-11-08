@@ -1,0 +1,13 @@
+.venv/
+.cache/
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+chroma_pdf/
+.env
+.env.*
+!.env.example
+*.pyc
+.streamlit/secrets.toml
+TP_RAG_multimodal_agentique_complet.zip
+

@@ -1,0 +1,19 @@
+{
+  "url_locale": "http://127.0.0.1:8502",
+  "pages": 11,
+  "fragments_texte": 170,
+  "images": 4,
+  "recherche_image_ui_clip_reel": true,
+  "cosinus_image_connue": 1.0,
+  "generation_llm_reelle_executee": false,
+  "verification_navigateur": {
+    "serveur": "ok",
+    "preparation": true,
+    "rechercheClip": true,
+    "sourcePagePresente": true,
+    "aucuneErreurVisible": true,
+    "largeurPage": 1440,
+    "largeurFenetre": 1440
+  },
+  "tests_automatiques_reussis": 16
+}

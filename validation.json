@@ -1,0 +1,11 @@
+{
+  "pages": 11,
+  "images": 4,
+  "fragments_texte": 170,
+  "elements_indexes": 174,
+  "reindexation_sans_doublons": true,
+  "dimension_clip": 512,
+  "hit_at_5": 1.0,
+  "graphe_scenario_simule": true,
+  "generation_llm_executee": false
+}

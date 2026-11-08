@@ -1,0 +1,49 @@
+[
+  {
+    "test": "Attention multi-têtes",
+    "pages_attendues": [
+      4,
+      5
+    ],
+    "pages_top5": [
+      2,
+      4,
+      8
+    ],
+    "hit@5": true
+  },
+  {
+    "test": "Division par racine de dk",
+    "pages_attendues": [
+      4
+    ],
+    "pages_top5": [
+      3,
+      4
+    ],
+    "hit@5": true
+  },
+  {
+    "test": "Encodage positionnel",
+    "pages_attendues": [
+      6
+    ],
+    "pages_top5": [
+      5,
+      6
+    ],
+    "hit@5": true
+  },
+  {
+    "test": "Architecture encodeur-décodeur",
+    "pages_attendues": [
+      3
+    ],
+    "pages_top5": [
+      2,
+      3,
+      5
+    ],
+    "hit@5": true
+  }
+]

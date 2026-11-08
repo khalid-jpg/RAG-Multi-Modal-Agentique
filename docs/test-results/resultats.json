@@ -1,0 +1,109 @@
+{
+  "date_execution": "2026-11-08T14:50:15.948618+00:00",
+  "fuseau": "Africa/Casablanca",
+  "commande": "python -m pytest -q --junitxml=.cache/pytest-readme.xml",
+  "total": 16,
+  "reussis": 16,
+  "echecs": 0,
+  "erreurs": 0,
+  "ignores": 0,
+  "duree_secondes": 29.733,
+  "tests": [
+    {
+      "module": "tests.test_interface",
+      "nom": "test_import_pdf_verifie_et_confine_le_chemin",
+      "duree_secondes": 0.031,
+      "statut": "réussi"
+    },
+    {
+      "module": "tests.test_interface",
+      "nom": "test_import_image_conserve_le_fond_blanc",
+      "duree_secondes": 0.241,
+      "statut": "réussi"
+    },
+    {
+      "module": "tests.test_interface",
+      "nom": "test_interface_accueil_et_recherche_texte",
+      "duree_secondes": 3.128,
+      "statut": "réussi"
+    },
+    {
+      "module": "tests.test_interface",
+      "nom": "test_requete_vide_et_image_seule",
+      "duree_secondes": 1.374,
+      "statut": "réussi"
+    },
+    {
+      "module": "tests.test_interface",
+      "nom": "test_agent_exige_cle_et_ne_modifie_pas_environnement",
+      "duree_secondes": 1.284,
+      "statut": "réussi"
+    },
+    {
+      "module": "tests.test_interface",
+      "nom": "test_changement_document_efface_contexte_et_historique",
+      "duree_secondes": 1.144,
+      "statut": "réussi"
+    },
+    {
+      "module": "tests.test_tp",
+      "nom": "test_extraction_pdf_et_vecteurs",
+      "duree_secondes": 0.082,
+      "statut": "réussi"
+    },
+    {
+      "module": "tests.test_tp",
+      "nom": "test_decoupage_clip_sans_perte",
+      "duree_secondes": 14.381,
+      "statut": "réussi"
+    },
+    {
+      "module": "tests.test_tp",
+      "nom": "test_normalisation",
+      "duree_secondes": 0.021,
+      "statut": "réussi"
+    },
+    {
+      "module": "tests.test_tp",
+      "nom": "test_reindexation_et_nettoyage",
+      "duree_secondes": 2.354,
+      "statut": "réussi"
+    },
+    {
+      "module": "tests.test_tp",
+      "nom": "test_recherche_cosinus_filtres_et_persistance",
+      "duree_secondes": 0.295,
+      "statut": "réussi"
+    },
+    {
+      "module": "tests.test_tp",
+      "nom": "test_outil_retourne_sources_et_artifact",
+      "duree_secondes": 0.301,
+      "statut": "réussi"
+    },
+    {
+      "module": "tests.test_tp",
+      "nom": "test_agent_action_observation_reformulation",
+      "duree_secondes": 0.324,
+      "statut": "réussi"
+    },
+    {
+      "module": "tests.test_tp",
+      "nom": "test_budget_impose_meme_avec_appels_multiples",
+      "duree_secondes": 0.3,
+      "statut": "réussi"
+    },
+    {
+      "module": "tests.test_tp",
+      "nom": "test_image_absente_et_schema",
+      "duree_secondes": 0.278,
+      "statut": "réussi"
+    },
+    {
+      "module": "tests.test_tp",
+      "nom": "test_requete_mixte_utilise_deux_encodeurs",
+      "duree_secondes": 0.004,
+      "statut": "réussi"
+    }
+  ]
+}
